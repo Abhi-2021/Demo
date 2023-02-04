@@ -34,7 +34,7 @@ public class Employee
 		this.phoneno = phoneno;
 	}
 	public void display() {
-		System.out.println("Employee Name : "+name);
+		System.out.println("Employee Full Name : "+name);
     	System.out.println("Employee Phone No. : "+phoneno);
     	System.out.println("Employee city : "+City);
     	System.out.println("Employee Aadhar Card No"+aadharcardno);
